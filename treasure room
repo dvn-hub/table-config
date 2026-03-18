@@ -21,7 +21,8 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"workerdivine01","workerdivine02","workerdivine03","workerdivine04","workerdivine05","pekerjadvn1","pekerjadvn2","pekerjadvn3","pekerjadvn4","pekerjadvn5"},
+        -- ["Whitelist Username"] = {"workerdivine01","workerdivine02","workerdivine03","workerdivine04","workerdivine05","pekerjadvn1","pekerjadvn2","pekerjadvn3","pekerjadvn4","pekerjadvn5"},
+        ["Whitelist Username"] = {""},
         ["Category Fish"] = {
             "Secret",
         },
@@ -152,7 +153,7 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod", "Midnight Rod"},
             ["Tropical Grove"] = {"Astral Rod"},
-            ["Crater Island"] = {"Element Rod"},
+            ["Sisyphus Statue"] = {"Element Rod"},
             ["Crystal Depths"] = {"Diamond Rod"},
         },
         ["Endgame"] = "",

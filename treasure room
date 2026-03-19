@@ -21,24 +21,13 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"workerdivine01","workerdivine02","workerdivine03","workerdivine04","workerdivine05","pekerjadvn1","pekerjadvn2","pekerjadvn3","pekerjadvn4","pekerjadvn5"},
-        -- ["Whitelist Username"] = {""},
+        -- ["Whitelist Username"] = {"workerdivine01","workerdivine02","workerdivine03","workerdivine04","workerdivine05","pekerjadvn1","pekerjadvn2","pekerjadvn3","pekerjadvn4","pekerjadvn5"},
+        ["Whitelist Username"] = {"workerdivine01"},
         ["Category Fish"] = {
             "Secret",
         },
-        ["Fish Name"] = {
-            "Sacred Guardian Squid",
-            "Flatheaded Whale Shark", 
-            "Primordial Octopus", 
-            "Runic Squid", 
-            "Ancient Squid",
-            {Name = "Ruby", Variant = "Gemstone"},
-            {Variant = "Leviathan's Rage"},
-            {Variant = "Leviathan Rage"},
-        },
-        ["Item Name"] = {
-            "Evolved Enchant Stone",
-        },
+        -- ["Fish Name"] = {"Sacred Guardian Squid","Flatheaded Whale Shark", "Primordial Octopus", "Runic Squid", "Ancient Squid",{Name = "Ruby", Variant = "Gemstone"},{Variant = "Leviathan's Rage"},{Variant = "Leviathan Rage"},},
+        -- ["Item Name"] = {"Evolved Enchant Stone",},
     },
     ["Farm Coin Only"] = {
         ["Enabled"] = false,

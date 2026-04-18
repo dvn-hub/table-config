@@ -13,10 +13,11 @@ _G.FishItConfig = _G.FishItConfig or {
 
         ["Auto Accept Trade"] = true,
         ["Auto Friend Request"] = true,
+        ["Auto Egg Exchange"] = true,
     },
     ["Auto Trade"] = {
         ["Enabled"] = false,
-        ["Whitelist Username"] = {"workerdivine01","workerdivine02","workerdivine03","workerdivine04","workerdivine05","pekerjadvn1","pekerjadvn2","pekerjadvn3","pekerjadvn4","pekerjadvn5"},
+        ["Whitelist Username"] = {"dvn_store","dvnsecret"},
         ["Category Fish"] = {
             "Secret",
         },
@@ -32,6 +33,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Item Name"] = {
             "Evolved Enchant Stone",
+            "Eggy Enchant Stone",
         },
     },
     ["Farm Coin Only"] = {

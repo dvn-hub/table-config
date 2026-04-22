@@ -147,7 +147,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Angler Rod",
         },
          ["Location Rods"] = {
-            ["Easter Cave"] = {"Diamond Rod"},
+            ["Underwater City"] = {"Diamond Rod"},
         },
         ["Endgame"] = "",
     },

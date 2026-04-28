@@ -95,10 +95,10 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Minimum Rod"] = "Astral Rod",
     },
     ["Totems"] = {
-        ["Auto Use"] = false,
-        ["Minimum Rod"] = "Element Rod",
+        ["Auto Use"] = true,
+        ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
-            ["Mutation Totem"] = 5,
+            ["Mutation Totem"] = 15,
         },
     },
     ["Event"] = {

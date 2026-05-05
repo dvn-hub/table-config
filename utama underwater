@@ -77,6 +77,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Category"] = {"Secret"}, {Forgotten},
         ["Item Name"] = {
         "Eggy Enchant Stone",
+        "Runic Enchant Stone",
     },
 
         ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1422865888390021262/76qvUPwZ_nUQedBr_q42jm_7y9ddmU34ozVE2r0W4derVkPWMTJ47bvzZvxT1bZmCb_h",

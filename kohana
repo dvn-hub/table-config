@@ -7,8 +7,6 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
             {Name = "Ruby", Variant = "Gemstone"},
-            {Variant = "Leviathan's Rage"},
-            {Variant = "Leviathan Rage"},
         },
 
         ["Auto Accept Trade"] = true,
@@ -21,7 +19,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Category Fish"] = {
             "Secret",
         },
-        ["Fish Name"] = {"Sacred Guardian Squid",{Name = "Ruby", Variant = "Gemstone"},{Variant = "Leviathan's Rage"},{Variant = "Leviathan Rage"},},
+        ["Fish Name"] = {Name = "Ruby", Variant = "Gemstone"},
         ["Item Name"] = {"Evolved Enchant Stone","Eggy Enchant Stone","Runic Enchant Stone",},
     },
     ["Farm Coin Only"] = {
@@ -82,7 +80,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Potions"] = {
-        ["Auto Use"] = false,
+        ["Auto Use"] = true,
         ["Minimum Rod"] = "Astral Rod",
     },
     ["Totems"] = {
@@ -121,7 +119,6 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Bait List"] = {
         ["Auto Buying"] = true,
         ["Buy List"] = {
-            "Aether Bait",
             "Floral Bait",
             "Singularity Bait",
         },
@@ -133,7 +130,6 @@ _G.FishItConfig = _G.FishItConfig or {
             "Grass Rod",
             "Midnight Rod",
             "Astral Rod",
-            "Ares Rod",
         },
          ["Location Rods"] = {
             ["Fisherman Island"] = {"Starter Rod"},

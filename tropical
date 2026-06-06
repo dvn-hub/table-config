@@ -103,13 +103,10 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = false,
-        ["Minimum Rod"] = "Element Rod",
+        ["Start Farm"] = true,
+        ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
             "Megalodon Hunt",
-            "Ghost Shark Hunt",
-            "Shark Hunt",
-            -- ["Ancient Lochness Monster"] = true,
         },
     },
     ["Enchant"] = {

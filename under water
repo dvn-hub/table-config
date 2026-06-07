@@ -15,14 +15,23 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"dvnhost01","dvnhost02","dvnhost03","dvnhost04","dvnhost05","dvnhost06","dvnhost07","dvnhost08","dvnhost09","dvnhost10","dvnhost11","dvnhost12","dvnhost13","dvnhost14","dvnhost15","dvnhost16","dvnhost17","dvnhost18","dvnhost19","dvnhost20","dvnhost21","dvnhost22","dvnhost23","dvnhost24"},
+        ["Whitelist Username"] = {
+            "dvnhost01","dvnhost02","dvnhost03","dvnhost04","dvnhost05","dvnhost06","dvnhost07",
+            "dvnhost08","dvnhost09","dvnhost10","dvnhost11","dvnhost12","dvnhost13","dvnhost14",
+            "dvnhost15","dvnhost16","dvnhost17","dvnhost18","dvnhost19","dvnhost20","dvnhost21",
+            "dvnhost22","dvnhost23","dvnhost24","dvnhost25","dvnhost26","dvnhost27",'dvnhost28",
+        },
         ["Category Fish"] = {
             "Secret",
         },
         ["Fish Name"] = {
             {Name = "Ruby", Variant = "Gemstone"},
         },
-        ["Item Name"] = {"Evolved Enchant Stone","Eggy Enchant Stone","Runic Enchant Stone",},
+        ["Item Name"] = {
+            "Evolved Enchant Stone",
+            "Eggy Enchant Stone",
+            "Runic Enchant Stone",
+        },
     },
     ["Farm Coin Only"] = {
         ["Enabled"] = false,
@@ -68,6 +77,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
         ["Item Name"] = {
         "Eggy Enchant Stone",
+        "Runic Enchant Stone",
     },
 
         ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1422865888390021262/76qvUPwZ_nUQedBr_q42jm_7y9ddmU34ozVE2r0W4derVkPWMTJ47bvzZvxT1bZmCb_h",

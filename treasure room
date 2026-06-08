@@ -73,6 +73,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Sending"] = true,
         ["Category"] = {
         {Name = "Ruby", Variant = "Gemstone"},
+        {Name = "Megalodon"},
     },
         ["Item Name"] = {
         "Megalodon",

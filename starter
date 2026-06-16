@@ -114,10 +114,11 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Enchant"] = true,
         ["Roll Enchant"] = true,
         ["Evolved Roll Enchant"] = false,
+        ["Farm Until Enchant"] = true,
         ["Enchant List"] = {
             "Cursed I",
         },
-        ["Second Enchant"] = true,
+        ["Second Enchant"] = false,
         ["Allowed Sacrifice"] = {
             "Ghost Shark",
             "Cryoshade Glider",
@@ -154,7 +155,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Astral Rod",
         },
          ["Location Rods"] = {
-            ["Tropical Grove"] = {"Starter Rod"},
+            ["Treasure Room"] = {"Starter Rod"},
         },
         ["Endgame"] = "",
     },

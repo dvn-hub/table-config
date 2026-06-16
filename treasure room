@@ -49,6 +49,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Diamond Rod"] = false,
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
+            "Worm Fish",
+            "Skeleton Narwhal",
             "Ghost Shark",
             "Cryoshade Glider",
             "Panther Eel",
@@ -120,6 +122,8 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
+            "Worm Fish",
+            "Skeleton Narwhal",
             "Ghost Shark",
             "Cryoshade Glider",
             "Panther Eel",

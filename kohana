@@ -115,10 +115,10 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Enchant"] = {
-        ["Farm Until Enchant"] = true,
         ["Auto Enchant"] = true,
         ["Roll Enchant"] = true,
         ["Evolved Roll Enchant"] = false,
+        ["Farm Until Enchant"] = true,
         ["Enchant List"] = {
             "Cursed I",
         },

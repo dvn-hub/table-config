@@ -49,6 +49,10 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Diamond Rod"] = false,
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
+            "Ancient Lochness Monster",
+            "Thin Armor Shark",
+            "Worm Fish",
+            "Skeleton Narwhal",
             "Ghost Shark",
             "Cryoshade Glider",
             "Panther Eel",
@@ -120,6 +124,10 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Second Enchant"] = false,
         ["Allowed Sacrifice"] = {
+            "Ancient Lochness Monster",
+            "Thin Armor Shark",
+            "Worm Fish",
+            "Skeleton Narwhal",
             "Ghost Shark",
             "Cryoshade Glider",
             "Panther Eel",

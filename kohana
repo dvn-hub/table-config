@@ -78,7 +78,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Sending"] = true,
         ["Category"] = {
         {Name = "Ruby", Variant = "Gemstone"},
-        {Name = "Megalodon"},
+        {Name = "Megalodon","Lochness Monster",},
     },
         ["Item Name"] = {
         "Megalodon",
@@ -116,7 +116,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Enchant"] = {
-        ["Auto Enchant"] = true,
+        ["Auto Enchant"] = false,
         ["Roll Enchant"] = true,
         ["Evolved Roll Enchant"] = false,
         ["Farm Until Enchant"] = true,

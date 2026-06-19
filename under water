@@ -14,7 +14,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Egg Exchange"] = false,
     },
     ["Auto Trade"] = {
-        ["Enabled"] = true,
+        ["Enabled"] = false,
         ["Whitelist Username"] = {
             "dvnhost01","dvnhost02","dvnhost03","dvnhost04","dvnhost05","dvnhost06","dvnhost07",
             "dvnhost08","dvnhost09","dvnhost10","dvnhost11","dvnhost12","dvnhost13","dvnhost14",

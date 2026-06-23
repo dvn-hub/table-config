@@ -74,11 +74,12 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Minimum Rod"] = "Astral Rod",
     },
     ["WebHook"] = {
-        ["Link Webhook"] = "https://discord.com/api/webhooks/1422865888390021262/76qvUPwZ_nUQedBr_q42jm_7y9ddmU34ozVE2r0W4derVkPWMTJ47bvzZvxT1bZmCb_h",
+        ["Link Webhook"] = "https://discord.com/api/webhooks/1519006483298385933/RZlBmPIMkodbesnFfF07B3cxjK3LJBg9g-YvPIk7QdLZY1K26fmgsmG2xZQvc_VA5bpn",
         ["Auto Sending"] = true,
         ["Category"] = {
         {Name = "Ruby", Variant = "Gemstone"},
-        {Name = "Megalodon","Lochness Monster",},
+        {Name = "Megalodon"},
+        {Name = "Lochness Monster"},
     },
         ["Item Name"] = {
         "Megalodon",
@@ -86,7 +87,7 @@ _G.FishItConfig = _G.FishItConfig or {
         "Runic Enchant Stone",
     },
 
-        ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1422865888390021262/76qvUPwZ_nUQedBr_q42jm_7y9ddmU34ozVE2r0W4derVkPWMTJ47bvzZvxT1bZmCb_h",
+        ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1519006483298385933/RZlBmPIMkodbesnFfF07B3cxjK3LJBg9g-YvPIk7QdLZY1K26fmgsmG2xZQvc_VA5bpn",
     },
     ["Weather"] = {
         ["Auto Buying"] = true,

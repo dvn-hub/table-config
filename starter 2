@@ -20,6 +20,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "dvnhost08","dvnhost09","dvnhost10","dvnhost11","dvnhost12","dvnhost13","dvnhost14",
             "dvnhost15","dvnhost16","dvnhost17","dvnhost18","dvnhost19","dvnhost20","dvnhost21",
             "dvnhost22","dvnhost23","dvnhost24","dvnhost25","dvnhost26","dvnhost27","dvnhost28",
+            "dvnhost29","dvnhost30",
         },
         ["Category Fish"] = {
             "Secret",

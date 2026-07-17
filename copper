@@ -153,7 +153,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Second Enchant List"] = {
             "Mutation Hunter II",
         },
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Minimum Rod"] = "Diamond Rod",
     },
     ["Bait List"] = {
         ["Auto Buying"] = true,

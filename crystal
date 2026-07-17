@@ -1,0 +1,189 @@
+_G.FishItConfig = _G.FishItConfig or {
+    ["Fishing"] = {
+        ["Auto Perfect"] = false,
+        ["Random Result"] = false,
+
+        ["Auto Favorite"] = true,
+        ["Auto Unfavorite"] = false,
+        ["Fish Name"] = {
+            {Name = "Ruby", Variant = "Gemstone"},
+        },
+
+        ["Auto Accept Trade"] = true,
+        ["Auto Friend Request"] = false,
+        ["Auto Egg Exchange"] = false,
+    },
+    ["Auto Trade"] = {
+        ["Enabled"] = true,
+        ["Whitelist Username"] = {
+            "dvnhost01","dvnhost02","dvnhost03","dvnhost04","dvnhost05","dvnhost06","dvnhost07",
+            "dvnhost08","dvnhost09","dvnhost10","dvnhost11","dvnhost12","dvnhost13","dvnhost14",
+            "dvnhost15","dvnhost16","dvnhost17","dvnhost18","dvnhost19","dvnhost20","dvnhost21",
+            "dvnhost22","dvnhost23","dvnhost24","dvnhost25","dvnhost26","dvnhost27","dvnhost28",
+            "dvnhost29","dvnhost30",
+        },
+        ["Category Fish"] = {
+            "Secret",
+        },
+        ["Fish Name"] = {
+            {Name = "Ruby", Variant = "Gemstone"},
+        },
+        ["Item Name"] = {
+            "Evolved Enchant Stone",
+            "Eggy Enchant Stone",
+            "Runic Enchant Stone",
+        },
+    },
+    ["Farm Coin Only"] = {
+        ["Enabled"] = false,
+        ["Target"] = 190000,
+    },
+    ["Selling"] = {
+        ["Auto Sell"] = true,
+        ["Auto Sell Threshold"] = "Mythic",
+        ["Auto Sell Every"] = 100,
+    },
+    ["Doing Quest"] = {
+        ["Auto Ghostfinn Rod"] = true,
+        ["Auto Element Rod"] = false,
+        ["Auto Element Rod 2"] = false,
+        ["Auto Diamond Rod"] = false,
+        ["Unlock Ancient Ruin"] = false,
+        ["Allowed Sacrifice"] = {
+            "Ancient Lochness Monster",
+            "Thin Armor Shark",
+            "Worm Fish",
+            "Skeleton Narwhal",
+            "Ghost Shark",
+            "Cryoshade Glider",
+            "Panther Eel",
+            "Queen Crab",
+            "King Crab",
+            "Giant Squid",
+            "Blob Shark",
+            "Ghost Shark",
+            "Mosasaur Shark",
+            "Bone Whale",
+            "King Jelly",
+            "Gladiator Shark",
+            "Viridis Lurker",
+            "Elshark Gran Maja",
+            "Scare",
+        },
+        ["FARM_LOC_SECRET_SACRIFICE"] = "Treasure Room",
+
+        ["Minimum Rod"] = "Astral Rod",
+    },
+    ["WebHook"] = {
+        ["Link Webhook"] = "https://discord.com/api/webhooks/1519006483298385933/RZlBmPIMkodbesnFfF07B3cxjK3LJBg9g-YvPIk7QdLZY1K26fmgsmG2xZQvc_VA5bpn",
+        ["Auto Sending"] = true,
+        ["Category"] = {
+        {Name = "Ruby", Variant = "Gemstone"},
+        {Name = "Megalodon"},
+        {Name = "Lochness Monster"},
+        {Name = "Cursed Kraken"},
+    },
+        ["Item Name"] = {
+        "Megalodon",
+        "Eggy Enchant Stone",
+        "Runic Enchant Stone",
+    },
+
+        ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1519006483298385933/RZlBmPIMkodbesnFfF07B3cxjK3LJBg9g-YvPIk7QdLZY1K26fmgsmG2xZQvc_VA5bpn",
+    },
+    ["Weather"] = {
+        ["Auto Buying"] = true,
+        ["Minimum Rod"] = "Astral Rod",
+        ["Weather List"] = {
+            "Wind",
+            "Storm",
+            "Cloudy",
+        },
+    },
+    ["Potions"] = {
+        ["Auto Use"] = true,
+        ["Minimum Rod"] = "Astral Rod",
+    },
+    ["Totems"] = {
+        ["Auto Use"] = true,
+        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Buy List"] = {
+            ["Mutation Totem"] = 15,
+        },
+    },
+    ["Event"] = {
+        ["Start Farm"] = true,
+        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Event List"] = {
+            "Megalodon Hunt",
+        },
+    },
+    ["Enchant"] = {
+        ["Auto Enchant"] = true,
+        ["Roll Enchant"] = true,
+        ["Evolved Roll Enchant"] = false,
+        ["Farm Until Enchant"] = true,
+        ["Enchant List"] = {
+            "Cursed I",
+        },
+        ["Second Enchant"] = true,
+        ["Allowed Sacrifice"] = {
+            "Ancient Lochness Monster",
+            "Thin Armor Shark",
+            "Worm Fish",
+            "Skeleton Narwhal",
+            "Ghost Shark",
+            "Cryoshade Glider",
+            "Panther Eel",
+            "Queen Crab",
+            "King Crab",
+            "Giant Squid",
+            "Blob Shark",
+            "Ghost Shark",
+            "Mosasaur Shark",
+            "Bone Whale",
+            "King Jelly",
+            "Gladiator Shark",
+            "Viridis Lurker",
+            "Elshark Gran Maja",
+            "Scare",
+        },
+        ["Second Enchant List"] = {
+            "Mutation Hunter II",
+        },
+        ["Minimum Rod"] = "Ghostfinn Rod",
+    },
+    ["Bait List"] = {
+        ["Auto Buying"] = true,
+        ["Buy List"] = {
+            "Floral Bait",
+            "Singularity Bait",
+        },
+        ["Endgame"] = "",
+    },
+    ["Rod List"] = {
+        ["Auto Buying"] = true,
+        ["Buy List"] = {
+            "Grass Rod",
+            "Midnight Rod",
+            "Astral Rod",
+        },
+         ["Location Rods"] = {
+            ["Fisherman Island"] = {"Starter Rod"},
+            ["Kohana Volcano"] = {"Grass Rod", "Midnight Rod"},
+            ["Tropical Grove"] = {"Astral Rod"},
+            ["Crystal Depths"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Crystal Depths"] = {"Diamond Rod"},
+        },
+        ["Endgame"] = "",
+    },
+
+    ["ExtremeFpsBoost"] = false,
+    ["UltimatePerformance"] = false,
+    ["Disable3DRender"] = false,
+    ["AutoRemovePlayer"] = true,
+
+    ["AutoReconnect"] = false,
+    ["HideGUI"] = false,
+    ["EXIT_MAP_IF_DISCONNECT"] = false,
+}

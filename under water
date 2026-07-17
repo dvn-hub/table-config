@@ -14,12 +14,13 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Egg Exchange"] = false,
     },
     ["Auto Trade"] = {
-        ["Enabled"] = false,
+        ["Enabled"] = true,
         ["Whitelist Username"] = {
             "dvnhost01","dvnhost02","dvnhost03","dvnhost04","dvnhost05","dvnhost06","dvnhost07",
             "dvnhost08","dvnhost09","dvnhost10","dvnhost11","dvnhost12","dvnhost13","dvnhost14",
             "dvnhost15","dvnhost16","dvnhost17","dvnhost18","dvnhost19","dvnhost20","dvnhost21",
             "dvnhost22","dvnhost23","dvnhost24","dvnhost25","dvnhost26","dvnhost27","dvnhost28",
+            "dvnhost29","dvnhost30",
         },
         ["Category Fish"] = {
             "Secret",
@@ -79,6 +80,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Category"] = {
         {Name = "Ruby", Variant = "Gemstone"},
         {Name = "Megalodon"},
+        {Name = "Lochness Monster"},
     },
         ["Item Name"] = {
         "Megalodon",
@@ -117,13 +119,13 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Enchant"] = {
         ["Auto Enchant"] = true,
-        ["Roll Enchant"] = false,
-        ["Evolved Roll Enchant"] = true,
+        ["Roll Enchant"] = true,
+        ["Evolved Roll Enchant"] = false,
         ["Farm Until Enchant"] = true,
         ["Enchant List"] = {
-            "SECRET Hunter",
+            "Cursed I",
         },
-        ["Second Enchant"] = false,
+        ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
             "Ancient Lochness Monster",
             "Thin Armor Shark",
@@ -146,7 +148,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Scare",
         },
         ["Second Enchant List"] = {
-            "Cursed I",
+            "Mutation Hunter II",
         },
         ["Minimum Rod"] = "Ghostfinn Rod",
     },
